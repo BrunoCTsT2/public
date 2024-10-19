@@ -13,6 +13,5 @@ Size = 167841792
 ReleaseDate = 19/10/2024
 ServerFileName = Robô Google Places.msi
 Flags = Sys64|NoCache|Os64
-RegistryKey = HKUD\Software\GrupoProspecta\Robô Viva Real\Version
-Version = 1.1
+CustomDetection = [APPDIR]RoboGooglePlaces.exe
 Description = Testes 1.1

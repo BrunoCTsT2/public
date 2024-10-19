@@ -5,14 +5,15 @@ MessageTitle = Atualização importante
 MessageBody = Correção de funcionamento
 MessageExpirationDate = 02/02/2023
 
-[Update-1.2]
-Name = Robô Google Places 1.2
-ProductVersion = 1.2.0.0
-URL = https://firebasestorage.googleapis.com/v0/b/vocacional-p2i-v4.appspot.com/o/temp%2FRob%C3%B4%20Google%20Places.msi?alt=media&token=7f04e0f6-600f-4e7a-8147-b1766358820c
-Size = 167842816
+[Update-1.3]
+Name = Robô Google Places 1.3
+ProductVersion = 1.3.0.0
+URL = https://firebasestorage.googleapis.com/v0/b/vocacional-p2i-v4.appspot.com/o/temp%2FRob%C3%B4%20Google%20Places.msi?alt=media&token=f3f3ffec-b32a-4ab8-8843-d0c9284c57e9
+Size = 170210304
 ReleaseDate = 19/10/2024
 ServerFileName = Robô Google Places.msi
-Flags = Sys64|NoCache|Os64|NoRedetect
+Flags = Critical|Sys64|NoCache|Os64|NoRedetect
 RegistryKey = HKUD\Software\GrupoProspecta\Robô Google Places\Version
-Version = 1.2.0.0
-Description = Testes 1.2
+Version = 1.3.0.0
+Description = Atualização 1.3
+BugFix = - Corrigido problema de login, através de fornecimento de chave

@@ -6,13 +6,13 @@ MessageBody = Correção de funcionamento
 MessageExpirationDate = 02/02/2023
 
 [Update-1.1]
-Name = Robô Google Places 1.1
+Name = Robô Google Places 1.1.0.0
 ProductVersion = 1.1.0.0
 URL = https://firebasestorage.googleapis.com/v0/b/vocacional-p2i-v4.appspot.com/o/temp%2FRob%C3%B4%20Google%20Places.msi?alt=media&token=e81e9e62-49f6-49d2-96fa-717339a4bdec
 Size = 167841792
 ReleaseDate = 19/10/2024
 ServerFileName = Robô Google Places.msi
-Flags = Sys64|NoCache|Os64
+Flags = Sys64|NoCache|Os64|NoRedetect
 RegistryKey = HKUD\Software\GrupoProspecta\Robô Google Places\Version
 Version = 1.1.0.0
 Description = Testes 1.1

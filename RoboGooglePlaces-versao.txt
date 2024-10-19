@@ -1,0 +1,17 @@
+;aiu;
+
+[General]
+MessageTitle = Atualização importante
+MessageBody = Correção de funcionamento
+MessageExpirationDate = 02/02/2023
+
+[Update-1.0]
+Name = Robô Google Places
+ProductVersion = 1.0
+URL = https://firebasestorage.googleapis.com/v0/b/vocacional-p2i-v4.appspot.com/o/temp%2FRob%C3%B4%20Google%20Places.msi?alt=media&token=2eda5891-96d2-4dcd-bdda-0906e2a8b079
+Size = 167801856
+ServerFileName = Robô Google Places.msi
+Flags = Sys64|NoCache|Os64
+RegistryKey = HKUD\Software\GrupoProspecta\Robô Viva Real\Version
+Version = 1.0
+Description = Testes
